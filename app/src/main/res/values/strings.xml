@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SIH2018</string>
+    <string name="FCM_PREF">com.a2018.sih.sih2018.fcm_pref</string>
+    <string name="FCM_TOKEN">com.a2018.sih.sih2018.fcm_token</string>
+</resources>
